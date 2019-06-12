@@ -18,20 +18,23 @@ body {
   
   header {
     background: #d21034;
+    font-size: 14px
   }
   
   h1 {
     padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
-    font-size: 28px;
+    font-size: 14px;
     color: #eee;
     text-align: center;
     background: #333;
   }
   
-  h2 {
-    font-size: 24px;
+  p {
+    font-size: 14px;
+    color:red;
+    text-align: Center;
   }
   
   a {
